@@ -1,4 +1,4 @@
-<mxfile modified="2024-02-23T23:21:09.243Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="aDD9_K52mYjaEcTuD60N" version="23.1.1" type="github">
+<mxfile modified="2024-02-23T23:25:44.504Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="bdxGQ6v6leke9BTSeje4" version="23.1.1" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1084" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -81,6 +81,12 @@
         </mxCell>
         <mxCell id="_gheknzpsVOAZqv6ptS0-49" value="In: HTTP from anywhere&lt;br&gt;Out: HTTP to anywhere" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=0;fontSize=8;fontColor=#ed7100;" vertex="1" parent="1">
           <mxGeometry x="465" y="771" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_gheknzpsVOAZqv6ptS0-52" value="" style="line;strokeWidth=2;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;fillColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="441.48" y="890" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_gheknzpsVOAZqv6ptS0-53" value="HTTP Traffic" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="502.48" y="880" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
